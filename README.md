@@ -132,7 +132,7 @@ The model predicts one of the following classes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Pokemon-Image-Classification.git
+git clone https://github.com/SoniJain03/Pokemon-classification-using-CNN.git
 ```
 
 Move to the project directory:
